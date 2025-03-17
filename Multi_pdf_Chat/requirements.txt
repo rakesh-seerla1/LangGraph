@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+pypdf2
+sentence-transformers
+faiss-cpu
+huggingface-hub
+langchain
+langchain-community
+transformers
+langchain-groq
+#pip install streamlit langchain langchain-groq PyPDF2 faiss-cpu sentence-transformers python-dotenv
